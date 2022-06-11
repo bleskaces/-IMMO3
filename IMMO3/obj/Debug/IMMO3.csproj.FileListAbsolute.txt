@@ -1,0 +1,11 @@
+C:\Users\xisao\Downloads\IM3-master\IM3-master\obj\Debug\IMMO3.csproj.AssemblyReference.cache
+C:\Users\xisao\Downloads\IM3-master\IM3-master\obj\Debug\IMMO3.csproj.SuggestedBindingRedirects.cache
+C:\Users\xisao\Downloads\IM3-master\IM3-master\obj\Debug\IMMO3.Form1.resources
+C:\Users\xisao\Downloads\IM3-master\IM3-master\obj\Debug\IM3.Properties.Resources.resources
+C:\Users\xisao\Downloads\IM3-master\IM3-master\obj\Debug\IMMO3.csproj.GenerateResource.cache
+C:\Users\xisao\Downloads\IM3-master\IM3-master\obj\Debug\IMMO3.csproj.CoreCompileInputs.cache
+C:\Users\xisao\Downloads\IM3-master\IM3-master\obj\Debug\IM3.exe
+C:\Users\xisao\Downloads\IM3-master\IM3-master\obj\Debug\IM3.pdb
+C:\Users\xisao\Downloads\IM3-master\IM3-master\bin\Debug\IM3.exe.config
+C:\Users\xisao\Downloads\IM3-master\IM3-master\bin\Debug\IM3.exe
+C:\Users\xisao\Downloads\IM3-master\IM3-master\bin\Debug\IM3.pdb
